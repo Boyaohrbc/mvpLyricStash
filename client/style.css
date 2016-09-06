@@ -1,0 +1,29 @@
+/*#searchResults {
+	position: relative;
+	padding-bottom: 56.25%; 
+	padding-top: 25px;
+	height: 0;
+}
+#searchResults iframe {
+	position: ;
+	top: 0;
+	left: 0;
+	width: 50%;
+	height: 50%;
+}*/
+
+html {
+ overflow-y:scroll;
+}
+body { 
+ padding-top:50px; 
+}
+#lyriclist { 
+margin-bottom:30px; 
+}
+#lyricform { 
+margin-bottom:50px;
+}
+#header {
+background-color: #cccccc;
+}
